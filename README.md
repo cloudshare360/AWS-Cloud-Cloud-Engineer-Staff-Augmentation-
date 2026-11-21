@@ -34,12 +34,12 @@
 
 | Category | Skills |
 |----------|--------|
-| **Backend** | Node.js (Express), Python (FastAPI), LangChain, LangGraph |
-| **Frontend** | React, Angular |
-| **CI/CD** | GitLab |
+| **Backend** | Node.js (Express), Python (FastAPI), LangChain, LangGraph, Anthropic Claude via AWS Bedrock (AWS profiles for dev) |
+| **Frontend** | React, Angular, Vercel AI |
+| **CI/CD** | GitLab Agentic Duo |
 | **Testing** | Cucumber (API Integration Testing), Playwright (UI Testing), Jest (Node.js Unit Testing) |
 | **Infrastructure as Code (IaC)** | CloudFormation, AWS CDK, Terraform, OpenTofu |
-| **AI/ML & Agent Development** | AWS Bedrock, AWS AgentCore, Amazon SageMaker, Amazon Titan, Anthropic Claude, Llama Models, RAG Pipelines, Vector Databases |
+| **AI/ML & Agent Development** | AWS Bedrock (Anthropic Claude models via AWS profiles for dev), AWS AgentCore, Amazon SageMaker, Amazon Titan, Anthropic Claude, Llama Models, RAG Pipelines, Vector Databases |
 | **Cloud** | AWS (API Gateway, EC2, S3, Lambda, IAM, VPC, CloudWatch, RDS, Aurora MySQL, Aurora PostgreSQL, DynamoDB, CloudTrail, EKS/ECS, SNS, SQS, SES, AWS Glue, AWS Athena, EventBridge, Step Functions, Elastic Beanstalk, ECR, ElastiCache, CodeDeploy, CodePipeline, AWS X-Ray, AWS SAM, CloudFront, Route 53, ELB, Cognito, KMS, Secrets Manager, STS, EFS, Kinesis, Data Firehose, AWS Backup), PostgreSQL, MySQL |
 
 ---

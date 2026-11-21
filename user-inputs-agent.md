@@ -59,6 +59,7 @@ This document records every input provided by the user during the agent session.
 | 32 | "once both the files are organized, review and commit and push the changes to git repo" | Git | Committed and pushed both files to `origin/main` (commit `485949d`) |
 | 33 | "can you create one more document as user conversation and capture all the inputs into a well formed document for future reference, you can give file name as user-inputs-agent" | Documentation | Created this document (`user-inputs-agent.md`) |
 | 34 | "redefine the role as aws agentic ai cloud engineer role" | Role Redefinition | Redefined role as AWS Agentic AI Cloud Engineer across README.md, ROLE_DETAILS.md, and updated this document; added AI Agent Development, LLM Orchestration to role scope; added LangChain, LangGraph to Backend; added AWS Bedrock, AgentCore, SageMaker, etc. to AI/ML skills; updated interview process with AI/ML assessment |
+| 35 | "as part of the development user will use antropic claude modes via aws bedrock using aws profiles for development, gitlab agentic duo for cicd and vercel ai for front-end development" | Development Tools | Added Anthropic Claude via AWS Bedrock (AWS profiles for dev) to Backend; added Vercel AI to Frontend; updated CI/CD to GitLab Agentic Duo; updated AI/ML section to specify Claude models via AWS profiles |
 
 ---
 
@@ -84,13 +85,15 @@ This document records every input provided by the user during the agent session.
 - Python (FastAPI)
 - LangChain
 - LangGraph
+- Anthropic Claude via AWS Bedrock (AWS profiles for dev)
 
 #### Frontend
 - React
 - Angular
+- Vercel AI
 
 #### CI/CD
-- GitLab
+- GitLab Agentic Duo
 
 #### Testing
 - Cucumber — API Integration Testing
@@ -104,7 +107,7 @@ This document records every input provided by the user during the agent session.
 - OpenTofu
 
 #### AI/ML & Agent Development
-- AWS Bedrock
+- AWS Bedrock (Anthropic Claude models via AWS profiles for dev)
 - AWS AgentCore
 - Amazon SageMaker
 - Amazon Titan

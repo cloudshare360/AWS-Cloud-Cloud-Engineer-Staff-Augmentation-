@@ -38,7 +38,7 @@
 The AWS Agentic AI Cloud Engineer role is a hybrid position spanning multiple disciplines:
 
 - **DevOps:** CI/CD pipeline management, infrastructure automation, deployment orchestration
-- **Development:** Backend development using Node.js (Express), Python (FastAPI), LangChain, LangGraph; frontend development using React and Angular
+- **Development:** Backend development using Node.js (Express), Python (FastAPI), LangChain, LangGraph, Anthropic Claude via AWS Bedrock (AWS profiles for dev); frontend development using React, Angular, Vercel AI
 - **Operations:** Production support, system monitoring, incident response, cloud operations
 - **Production Support:** Tier 2/Tier 3 support for production workloads, troubleshooting, root cause analysis
 - **Unit Testing:** Writing and executing unit tests (Jest for Node.js)
@@ -57,13 +57,15 @@ The AWS Agentic AI Cloud Engineer role is a hybrid position spanning multiple di
 - Python (FastAPI)
 - LangChain
 - LangGraph
+- Anthropic Claude via AWS Bedrock (AWS profiles for dev)
 
 ### 3.2 Frontend
 - React
 - Angular
+- Vercel AI
 
 ### 3.3 CI/CD
-- GitLab
+- GitLab Agentic Duo
 
 ### 3.4 Testing
 - Cucumber — API Integration Testing
@@ -77,7 +79,7 @@ The AWS Agentic AI Cloud Engineer role is a hybrid position spanning multiple di
 - OpenTofu
 
 ### 3.6 AI/ML & Agent Development
-- AWS Bedrock
+- AWS Bedrock (Anthropic Claude models via AWS profiles for dev)
 - AWS AgentCore
 - Amazon SageMaker
 - Amazon Titan
