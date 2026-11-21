@@ -7,8 +7,9 @@
 | Specification | Requirement |
 |--------------|-------------|
 | **Supported formats** | PNG, JPG, GIF (SVG not supported) |
-| **Recommended size** | 512×512 pixels (minimum 256×256) |
-| **Maximum file size** | 1 MB |
+| **Recommended size** | About 500×500 pixels for best rendering quality |
+| **Maximum dimensions** | Smaller than 3000×3000 pixels |
+| **Maximum file size** | Less than 1 MB |
 | **Shape** | Square (GitHub applies circular crop) |
 | **Background** | Transparent PNG works best |
 
@@ -21,12 +22,12 @@ Convert `aws-cloud-engineer-profile.svg` to PNG using one of these methods:
 ### Option A: Online Converter (Easiest)
 1. Go to [svgtopng.com](https://svgtopng.com) or [cloudconvert.com](https://cloudconvert.com)
 2. Upload `aws-cloud-engineer-profile.svg`
-3. Set output size to **512×512 pixels**
+3. Set output size to **500×500 pixels** (512×512 is also acceptable)
 4. Download as PNG
 
 ### Option B: Command Line (if you have `rsvg-convert` installed)
 ```bash
-rsvg-convert -w 512 -h 512 -o aws-cloud-engineer-profile.png aws-cloud-engineer-profile.svg
+rsvg-convert -w 500 -h 500 -o aws-cloud-engineer-profile.png aws-cloud-engineer-profile.svg
 ```
 
 ### Option C: Design Tools
@@ -51,7 +52,7 @@ rsvg-convert -w 512 -h 512 -o aws-cloud-engineer-profile.png aws-cloud-engineer-
 ## SVG Profile Picture (Source File)
 
 **File:** `aws-cloud-engineer-profile.svg`  
-**Format:** SVG (Scalable Vector Graphics) — 512×512 px  
+**Format:** SVG (Scalable Vector Graphics) — scalable source (export at 500×500 px for GitHub)  
 **Usage:** Source file for converting to PNG. Use directly on platforms that support SVG (LinkedIn, email signatures, websites, etc.)
 
 The SVG features:
@@ -93,7 +94,7 @@ If you want a photorealistic or illustrated profile picture, use this prompt wit
 
 | Platform | Recommended Format | Size | Notes |
 |----------|-------------------|------|-------|
-| **GitHub** | **PNG** (convert from SVG) | **512×512 px** | Max 1 MB, circular crop applied |
+| **GitHub** | **PNG** (convert from SVG) | **500×500 px** | Max 1 MB, < 3000×3000 px, circular crop applied |
 | LinkedIn | PNG or SVG | 400×400 px | Circular crop applied by platform |
 | Email signature | PNG or SVG | 200×200 px | Transparent background works well |
 | Resume/CV | PNG | 200×200 px | Print-friendly, smaller file size |
@@ -105,13 +106,13 @@ If you want a photorealistic or illustrated profile picture, use this prompt wit
 
 ```bash
 # Using ImageMagick (if installed)
-convert aws-cloud-engineer-profile.svg -resize 512x512 aws-cloud-engineer-profile.png
+convert aws-cloud-engineer-profile.svg -resize 500x500 aws-cloud-engineer-profile.png
 
 # Using rsvg-convert (if installed)
-rsvg-convert -w 512 -h 512 -o aws-cloud-engineer-profile.png aws-cloud-engineer-profile.svg
+rsvg-convert -w 500 -h 500 -o aws-cloud-engineer-profile.png aws-cloud-engineer-profile.svg
 
 # Using Inkscape (if installed)
-inkscape aws-cloud-engineer-profile.svg --export-png=aws-cloud-engineer-profile.png -w 512 -h 512
+inkscape aws-cloud-engineer-profile.svg --export-png=aws-cloud-engineer-profile.png -w 500 -h 500
 ```
 
 ---
