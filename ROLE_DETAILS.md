@@ -1,6 +1,6 @@
-# AWS Cloud Engineer — Staff Augmentation Model (Detailed Role Description)
+# AWS Agentic AI Cloud Engineer — Staff Augmentation Model (Detailed Role Description)
 
-> Detailed role description for an AWS Cloud Engineer staff augmentation engagement. Covers position details, required technical skills, commercial/revenue-sharing model, associate requirements, support provided, interview process, and how to apply.
+> Detailed role description for an AWS Agentic AI Cloud Engineer staff augmentation engagement. Covers position details, required technical skills (including AI/ML and agent development), commercial/revenue-sharing model, associate requirements, support provided, interview process, and how to apply.
 
 > 🔙 **[Back to Overview →](./README.md)**
 
@@ -23,7 +23,7 @@
 
 | Field | Details |
 |-------|---------|
-| **Job Title** | AWS Cloud Engineer |
+| **Job Title** | AWS Agentic AI Cloud Engineer |
 | **Role Type** | Staff Augmentation |
 | **Hourly Rate** | $50 – $60 / hr |
 | **Contract Duration** | 18 months or till end of contract |
@@ -35,15 +35,18 @@
 
 ## 2. Role Scope & Responsibilities
 
-The AWS Cloud Engineer role is a hybrid position spanning multiple disciplines:
+The AWS Agentic AI Cloud Engineer role is a hybrid position spanning multiple disciplines:
 
 - **DevOps:** CI/CD pipeline management, infrastructure automation, deployment orchestration
-- **Development:** Backend development using Node.js (Express) and Python (FastAPI), frontend development using React and Angular
+- **Development:** Backend development using Node.js (Express), Python (FastAPI), LangChain, LangGraph; frontend development using React and Angular
 - **Operations:** Production support, system monitoring, incident response, cloud operations
 - **Production Support:** Tier 2/Tier 3 support for production workloads, troubleshooting, root cause analysis
 - **Unit Testing:** Writing and executing unit tests (Jest for Node.js)
 - **Integration Testing:** API integration testing using Cucumber
 - **Testing Automation:** UI test automation using Playwright
+- **AI Agent Development:** Building and deploying AI agents using AWS Bedrock, AgentCore, LangChain, LangGraph
+- **LLM Orchestration:** Designing RAG pipelines, vector database integration, LLM prompt engineering and optimization
+- **AI/ML Model Deployment:** Deploying and managing AI models on Amazon SageMaker, Bedrock, and EC2
 
 ---
 
@@ -52,6 +55,8 @@ The AWS Cloud Engineer role is a hybrid position spanning multiple disciplines:
 ### 3.1 Backend
 - Node.js (Express)
 - Python (FastAPI)
+- LangChain
+- LangGraph
 
 ### 3.2 Frontend
 - React
@@ -71,7 +76,17 @@ The AWS Cloud Engineer role is a hybrid position spanning multiple disciplines:
 - Terraform
 - OpenTofu
 
-### 3.6 Cloud (AWS)
+### 3.6 AI/ML & Agent Development
+- AWS Bedrock
+- AWS AgentCore
+- Amazon SageMaker
+- Amazon Titan
+- Anthropic Claude
+- Llama Models
+- RAG Pipelines
+- Vector Databases
+
+### 3.7 Cloud (AWS)
 - **API & Messaging:** API Gateway, SNS, SQS, SES
 - **Compute:** EC2, Lambda, Elastic Beanstalk, EKS/ECS, ECR
 - **Storage:** S3, EFS, AWS Backup
@@ -100,7 +115,8 @@ The AWS Cloud Engineer role is a hybrid position spanning multiple disciplines:
 
 ## 5. Associate Requirements
 
-- Must clear client interview with hands-on coding round
+- Must clear client interview with hands-on coding round (including AI agent development)
+- Must clear AI/ML assessment (Bedrock, AgentCore, RAG, LLM orchestration)
 - Must commit for 18 months or duration of the contract
 
 > **Important Note:** No proxy, no fake. The associate must personally prepare, execute, learn, and clear the interview. Misrepresentation or proxy interviews are strictly prohibited.
@@ -122,9 +138,10 @@ The AWS Cloud Engineer role is a hybrid position spanning multiple disciplines:
 ## 7. Interview Process
 
 1. **Initial Screening** — Profile review and basic eligibility check
-2. **Technical Assessment** — Hands-on coding round covering backend development, AWS services, and testing
-3. **Client Interview** — Final interview with the client
-4. **Offer & Onboarding** — Contract signing and onboarding support
+2. **Technical Assessment** — Hands-on coding round covering backend development, AWS services, AI agent development, and testing
+3. **AI/ML Assessment** — Evaluation on AWS Bedrock, AgentCore, RAG pipelines, LLM orchestration, and vector databases
+4. **Client Interview** — Final interview with the client
+5. **Offer & Onboarding** — Contract signing and onboarding support
 
 ---
 

@@ -1,6 +1,6 @@
-# AWS Cloud Engineer — Staff Augmentation Model
+# AWS Agentic AI Cloud Engineer — Staff Augmentation Model
 
-> Staff augmentation engagement for an AWS Cloud Engineer role. Covers position details, required technical skills, commercial/revenue-sharing model, associate requirements, and support provided.
+> Staff augmentation engagement for an AWS Agentic AI Cloud Engineer role. Covers position details, required technical skills (including AI/ML and agent development), commercial/revenue-sharing model, associate requirements, and support provided.
 
 > 📄 **[View detailed role description →](./ROLE_DETAILS.md)**
 
@@ -20,11 +20,11 @@
 
 | Field | Details |
 |-------|---------|
-| **Job Title** | AWS Cloud Engineer |
+| **Job Title** | AWS Agentic AI Cloud Engineer |
 | **Role Type** | Staff Augmentation |
 | **Hourly Rate** | $50 – $60 / hr |
 | **Contract Duration** | 18 months or till end of contract |
-| **Role Scope** | DevOps, Development, Operations, Production Support, Unit Testing, Integration Testing, Testing Automation |
+| **Role Scope** | DevOps, Development, Operations, Production Support, Unit Testing, Integration Testing, Testing Automation, AI Agent Development, LLM Orchestration |
 | **Contact Email** | cloud.share360@gmail.com |
 | **Contact Phone** | +1 (469) 905-2527 |
 
@@ -34,11 +34,12 @@
 
 | Category | Skills |
 |----------|--------|
-| **Backend** | Node.js (Express), Python (FastAPI) |
+| **Backend** | Node.js (Express), Python (FastAPI), LangChain, LangGraph |
 | **Frontend** | React, Angular |
 | **CI/CD** | GitLab |
 | **Testing** | Cucumber (API Integration Testing), Playwright (UI Testing), Jest (Node.js Unit Testing) |
 | **Infrastructure as Code (IaC)** | CloudFormation, AWS CDK, Terraform, OpenTofu |
+| **AI/ML & Agent Development** | AWS Bedrock, AWS AgentCore, Amazon SageMaker, Amazon Titan, Anthropic Claude, Llama Models, RAG Pipelines, Vector Databases |
 | **Cloud** | AWS (API Gateway, EC2, S3, Lambda, IAM, VPC, CloudWatch, RDS, Aurora MySQL, Aurora PostgreSQL, DynamoDB, CloudTrail, EKS/ECS, SNS, SQS, SES, AWS Glue, AWS Athena, EventBridge, Step Functions, Elastic Beanstalk, ECR, ElastiCache, CodeDeploy, CodePipeline, AWS X-Ray, AWS SAM, CloudFront, Route 53, ELB, Cognito, KMS, Secrets Manager, STS, EFS, Kinesis, Data Firehose, AWS Backup), PostgreSQL, MySQL |
 
 ---
@@ -55,7 +56,8 @@
 
 ## 4. Associate Requirements
 
-- Must clear client interview with hands-on coding round
+- Must clear client interview with hands-on coding round (including AI agent development)
+- Must clear AI/ML assessment (Bedrock, AgentCore, RAG, LLM orchestration)
 - Must commit for 18 months or duration of the contract
 
 > **Important Note:** No proxy, no fake. The associate must personally prepare, execute, learn, and clear the interview.

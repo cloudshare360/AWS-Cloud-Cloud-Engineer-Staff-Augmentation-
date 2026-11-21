@@ -58,6 +58,7 @@ This document records every input provided by the user during the agent session.
 | 31 | "now review both the document and organize the content as required" | Organization | Reorganized both files with proper sections, tables, cross-links, and formatting |
 | 32 | "once both the files are organized, review and commit and push the changes to git repo" | Git | Committed and pushed both files to `origin/main` (commit `485949d`) |
 | 33 | "can you create one more document as user conversation and capture all the inputs into a well formed document for future reference, you can give file name as user-inputs-agent" | Documentation | Created this document (`user-inputs-agent.md`) |
+| 34 | "redefine the role as aws agentic ai cloud engineer role" | Role Redefinition | Redefined role as AWS Agentic AI Cloud Engineer across README.md, ROLE_DETAILS.md, and updated this document; added AI Agent Development, LLM Orchestration to role scope; added LangChain, LangGraph to Backend; added AWS Bedrock, AgentCore, SageMaker, etc. to AI/ML skills; updated interview process with AI/ML assessment |
 
 ---
 
@@ -68,11 +69,11 @@ This document records every input provided by the user during the agent session.
 
 | Field | Value |
 |-------|-------|
-| Job Title | AWS Cloud Engineer |
+| Job Title | AWS Agentic AI Cloud Engineer |
 | Role Type | Staff Augmentation |
 | Hourly Rate | $50 – $60 / hr |
 | Contract Duration | 18 months or till end of contract |
-| Role Scope | DevOps, Development, Operations, Production Support, Unit Testing, Integration Testing, Testing Automation |
+| Role Scope | DevOps, Development, Operations, Production Support, Unit Testing, Integration Testing, Testing Automation, AI Agent Development, LLM Orchestration |
 | Contact Email | cloud.share360@gmail.com |
 | Contact Phone | +1 (469) 905-2527 |
 
@@ -81,6 +82,8 @@ This document records every input provided by the user during the agent session.
 #### Backend
 - Node.js (Express)
 - Python (FastAPI)
+- LangChain
+- LangGraph
 
 #### Frontend
 - React
@@ -99,6 +102,16 @@ This document records every input provided by the user during the agent session.
 - AWS CDK
 - Terraform
 - OpenTofu
+
+#### AI/ML & Agent Development
+- AWS Bedrock
+- AWS AgentCore
+- Amazon SageMaker
+- Amazon Titan
+- Anthropic Claude
+- Llama Models
+- RAG Pipelines
+- Vector Databases
 
 #### Cloud — AWS Services
 - **API & Messaging:** API Gateway, SNS, SQS, SES
@@ -124,7 +137,8 @@ This document records every input provided by the user during the agent session.
 
 ### 3.4 Associate Requirements
 
-- Must clear client interview with hands-on coding round
+- Must clear client interview with hands-on coding round (including AI agent development)
+- Must clear AI/ML assessment (Bedrock, AgentCore, RAG, LLM orchestration)
 - Must commit for 18 months or duration of the contract
 - No proxy, no fake interviews — associate must personally prepare and clear the interview
 
@@ -139,9 +153,10 @@ This document records every input provided by the user during the agent session.
 ### 3.6 Interview Process (Detailed Version Only)
 
 1. Initial Screening — Profile review and basic eligibility check
-2. Technical Assessment — Hands-on coding round covering backend development, AWS services, and testing
-3. Client Interview — Final interview with the client
-4. Offer & Onboarding — Contract signing and onboarding support
+2. Technical Assessment — Hands-on coding round covering backend development, AWS services, AI agent development, and testing
+3. AI/ML Assessment — Evaluation on AWS Bedrock, AgentCore, RAG pipelines, LLM orchestration, and vector databases
+4. Client Interview — Final interview with the client
+5. Offer & Onboarding — Contract signing and onboarding support
 
 ### 3.7 How to Apply (Detailed Version Only)
 
@@ -182,7 +197,7 @@ This document records every input provided by the user during the agent session.
 
 ## 6. AWS Certification Alignment
 
-The technical skills were cross-referenced with the official **AWS Certified Developer Associate (DVA-C03)** in-scope services documentation to ensure the role requirements align with AWS certification standards. Serverless services (Lambda, API Gateway, SNS, SQS, EventBridge, Step Functions) and certification-relevant services (Cognito, KMS, Secrets Manager, CloudWatch, CloudTrail, CodeDeploy, CodePipeline, AWS SAM, etc.) were included.
+The technical skills were cross-referenced with the official **AWS Certified Developer Associate (DVA-C03)** in-scope services documentation and **AWS AI/ML certification** materials. Serverless services (Lambda, API Gateway, SNS, SQS, EventBridge, Step Functions) and certification-relevant services (Cognito, KMS, Secrets Manager, CloudWatch, CloudTrail, CodeDeploy, CodePipeline, AWS SAM, etc.) were included. AI/ML services (AWS Bedrock, AWS AgentCore, Amazon SageMaker, Amazon Titan) were added to align with the Agentic AI Cloud Engineer role requirements.
 
 ---
 
