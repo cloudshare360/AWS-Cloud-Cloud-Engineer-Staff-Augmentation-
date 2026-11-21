@@ -60,6 +60,7 @@ This document records every input provided by the user during the agent session.
 | 33 | "can you create one more document as user conversation and capture all the inputs into a well formed document for future reference, you can give file name as user-inputs-agent" | Documentation | Created this document (`user-inputs-agent.md`) |
 | 34 | "redefine the role as aws agentic ai cloud engineer role" | Role Redefinition | Redefined role as AWS Agentic AI Cloud Engineer across README.md, ROLE_DETAILS.md, and updated this document; added AI Agent Development, LLM Orchestration to role scope; added LangChain, LangGraph to Backend; added AWS Bedrock, AgentCore, SageMaker, etc. to AI/ML skills; updated interview process with AI/ML assessment |
 | 35 | "as part of the development user will use antropic claude modes via aws bedrock using aws profiles for development, gitlab agentic duo for cicd and vercel ai for front-end development" | Development Tools | Added Anthropic Claude via AWS Bedrock (AWS profiles for dev) to Backend; added Vercel AI to Frontend; updated CI/CD to GitLab Agentic Duo; updated AI/ML section to specify Claude models via AWS profiles |
+| 36 | "agentic tools are github copilot, claude code, cline, kiloai, mcp, agent to agent protocal, rag etc to speed up the development process" | Agentic AI Tools | Added Agentic AI Development Tools section: GitHub Copilot, Claude Code, Cline, KiloAI, MCP (Model Context Protocol), Agent-to-Agent Protocol, RAG |
 
 ---
 
@@ -115,6 +116,15 @@ This document records every input provided by the user during the agent session.
 - Llama Models
 - RAG Pipelines
 - Vector Databases
+
+#### Agentic AI Development Tools
+- GitHub Copilot
+- Claude Code
+- Cline
+- KiloAI
+- MCP (Model Context Protocol)
+- Agent-to-Agent Protocol
+- RAG
 
 #### Cloud — AWS Services
 - **API & Messaging:** API Gateway, SNS, SQS, SES

@@ -88,7 +88,16 @@ The AWS Agentic AI Cloud Engineer role is a hybrid position spanning multiple di
 - RAG Pipelines
 - Vector Databases
 
-### 3.7 Cloud (AWS)
+### 3.7 Agentic AI Development Tools
+- GitHub Copilot
+- Claude Code
+- Cline
+- KiloAI
+- MCP (Model Context Protocol)
+- Agent-to-Agent Protocol
+- RAG
+
+### 3.8 Cloud (AWS)
 - **API & Messaging:** API Gateway, SNS, SQS, SES
 - **Compute:** EC2, Lambda, Elastic Beanstalk, EKS/ECS, ECR
 - **Storage:** S3, EFS, AWS Backup

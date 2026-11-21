@@ -40,6 +40,7 @@
 | **Testing** | Cucumber (API Integration Testing), Playwright (UI Testing), Jest (Node.js Unit Testing) |
 | **Infrastructure as Code (IaC)** | CloudFormation, AWS CDK, Terraform, OpenTofu |
 | **AI/ML & Agent Development** | AWS Bedrock (Anthropic Claude models via AWS profiles for dev), AWS AgentCore, Amazon SageMaker, Amazon Titan, Anthropic Claude, Llama Models, RAG Pipelines, Vector Databases |
+| **Agentic AI Development Tools** | GitHub Copilot, Claude Code, Cline, KiloAI, MCP (Model Context Protocol), Agent-to-Agent Protocol, RAG |
 | **Cloud** | AWS (API Gateway, EC2, S3, Lambda, IAM, VPC, CloudWatch, RDS, Aurora MySQL, Aurora PostgreSQL, DynamoDB, CloudTrail, EKS/ECS, SNS, SQS, SES, AWS Glue, AWS Athena, EventBridge, Step Functions, Elastic Beanstalk, ECR, ElastiCache, CodeDeploy, CodePipeline, AWS X-Ray, AWS SAM, CloudFront, Route 53, ELB, Cognito, KMS, Secrets Manager, STS, EFS, Kinesis, Data Firehose, AWS Backup), PostgreSQL, MySQL |
 
 ---
