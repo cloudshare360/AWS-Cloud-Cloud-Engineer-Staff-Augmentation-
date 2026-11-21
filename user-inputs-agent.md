@@ -58,9 +58,10 @@ This document records every input provided by the user during the agent session.
 | 31 | "now review both the document and organize the content as required" | Organization | Reorganized both files with proper sections, tables, cross-links, and formatting |
 | 32 | "once both the files are organized, review and commit and push the changes to git repo" | Git | Committed and pushed both files to `origin/main` (commit `485949d`) |
 | 33 | "can you create one more document as user conversation and capture all the inputs into a well formed document for future reference, you can give file name as user-inputs-agent" | Documentation | Created this document (`user-inputs-agent.md`) |
-| 34 | "redefine the role as aws agentic ai cloud engineer role" | Role Redefinition | Redefined role as AWS Agentic AI Cloud Engineer across README.md, ROLE_DETAILS.md, and updated this document; added AI Agent Development, LLM Orchestration to role scope; added LangChain, LangGraph to Backend; added AWS Bedrock, AgentCore, SageMaker, etc. to AI/ML skills; updated interview process with AI/ML assessment |
+| 34 | "redefine the role as aws agentic ai cloud engineer role" | Role Redefinition | Redefined role as AWS Cloud Agentic Development Engineer across README.md, ROLE_DETAILS.md, and updated this document; added AI Agent Development, LLM Orchestration to role scope; added LangChain, LangGraph to Backend; added AWS Bedrock, AgentCore, SageMaker, etc. to AI/ML skills; updated interview process with AI/ML assessment |
 | 35 | "as part of the development user will use antropic claude modes via aws bedrock using aws profiles for development, gitlab agentic duo for cicd and vercel ai for front-end development" | Development Tools | Added Anthropic Claude via AWS Bedrock (AWS profiles for dev) to Backend; added Vercel AI to Frontend; updated CI/CD to GitLab Agentic Duo; updated AI/ML section to specify Claude models via AWS profiles |
 | 36 | "agentic tools are github copilot, claude code, cline, kiloai, mcp, agent to agent protocal, rag etc to speed up the development process" | Agentic AI Tools | Added Agentic AI Development Tools section: GitHub Copilot, Claude Code, Cline, KiloAI, MCP (Model Context Protocol), Agent-to-Agent Protocol, RAG |
+| 37 | "rename the tile from AWS Cloud Engineer to AWS Cloud Agentic Development Engineer" | Title Rename | Renamed title from AWS Agentic AI Cloud Engineer to AWS Cloud Agentic Development Engineer across README.md, ROLE_DETAILS.md, and this document |
 
 ---
 
@@ -71,7 +72,7 @@ This document records every input provided by the user during the agent session.
 
 | Field | Value |
 |-------|-------|
-| Job Title | AWS Agentic AI Cloud Engineer |
+| Job Title | AWS Cloud Agentic Development Engineer |
 | Role Type | Staff Augmentation |
 | Hourly Rate | $50 – $60 / hr |
 | Contract Duration | 18 months or till end of contract |
@@ -210,7 +211,7 @@ This document records every input provided by the user during the agent session.
 
 ## 6. AWS Certification Alignment
 
-The technical skills were cross-referenced with the official **AWS Certified Developer Associate (DVA-C03)** in-scope services documentation and **AWS AI/ML certification** materials. Serverless services (Lambda, API Gateway, SNS, SQS, EventBridge, Step Functions) and certification-relevant services (Cognito, KMS, Secrets Manager, CloudWatch, CloudTrail, CodeDeploy, CodePipeline, AWS SAM, etc.) were included. AI/ML services (AWS Bedrock, AWS AgentCore, Amazon SageMaker, Amazon Titan) were added to align with the Agentic AI Cloud Engineer role requirements.
+The technical skills were cross-referenced with the official **AWS Certified Developer Associate (DVA-C03)** in-scope services documentation and **AWS AI/ML certification** materials. Serverless services (Lambda, API Gateway, SNS, SQS, EventBridge, Step Functions) and certification-relevant services (Cognito, KMS, Secrets Manager, CloudWatch, CloudTrail, CodeDeploy, CodePipeline, AWS SAM, etc.) were included. AI/ML services (AWS Bedrock, AWS AgentCore, Amazon SageMaker, Amazon Titan) were added to align with the AWS Cloud Agentic Development Engineer role requirements.
 
 ---
 

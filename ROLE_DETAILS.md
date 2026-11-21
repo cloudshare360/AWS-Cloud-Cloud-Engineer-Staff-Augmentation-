@@ -1,6 +1,6 @@
-# AWS Agentic AI Cloud Engineer — Staff Augmentation Model (Detailed Role Description)
+# AWS Cloud Agentic Development Engineer — Staff Augmentation Model (Detailed Role Description)
 
-> Detailed role description for an AWS Agentic AI Cloud Engineer staff augmentation engagement. Covers position details, required technical skills (including AI/ML and agent development), commercial/revenue-sharing model, associate requirements, support provided, interview process, and how to apply.
+> Detailed role description for an AWS Cloud Agentic Development Engineer staff augmentation engagement. Covers position details, required technical skills (including AI/ML and agent development), commercial/revenue-sharing model, associate requirements, support provided, interview process, and how to apply.
 
 > 🔙 **[Back to Overview →](./README.md)**
 
@@ -23,7 +23,7 @@
 
 | Field | Details |
 |-------|---------|
-| **Job Title** | AWS Agentic AI Cloud Engineer |
+| **Job Title** | AWS Cloud Agentic Development Engineer |
 | **Role Type** | Staff Augmentation |
 | **Hourly Rate** | $50 – $60 / hr |
 | **Contract Duration** | 18 months or till end of contract |
@@ -35,7 +35,7 @@
 
 ## 2. Role Scope & Responsibilities
 
-The AWS Agentic AI Cloud Engineer role is a hybrid position spanning multiple disciplines:
+The AWS Cloud Agentic Development Engineer role is a hybrid position spanning multiple disciplines:
 
 - **DevOps:** CI/CD pipeline management, infrastructure automation, deployment orchestration
 - **Development:** Backend development using Node.js (Express), Python (FastAPI), LangChain, LangGraph, Anthropic Claude via AWS Bedrock (AWS profiles for dev); frontend development using React, Angular, Vercel AI
