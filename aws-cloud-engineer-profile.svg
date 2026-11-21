@@ -31,13 +31,13 @@
       <stop offset="0%" style="stop-color:#E74C3C;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#C0392B;stop-opacity:1" />
     </linearGradient>
-  </defs>
-  <rect width="512" height="512" fill="url(#bgGradient)" rx="64"/>
-  <g fill="#3A4A5F" opacity="0.15">
-    <circle cx="120" cy="140" r="40"/>
-    <circle cx="390" cy="380" r="50"/>
-    <circle cx="420" cy="120" r="30"/>
-  </g>
+    <linearGradient id="techNodeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#68A063;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4C9048;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="techPythonGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3776AB;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2C5A86;stop-opacity:1" />
   <!-- Role Segment 1: Developer (Blue) -->
   <path d="M 256 256 L 256 105 A 152 152 0 0 1 328 130 Z" fill="url(#devGradient)" opacity="0.9"/>
   <g transform="translate(292, 118) rotate(-36)">
@@ -67,6 +67,49 @@
   <g transform="translate(256, 370) rotate(180)">
     <text x="0" y="8" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Post-Prod</text>
     <text x="0" y="24" font-family="Arial, sans-serif" font-size="10" fill="#FFFFFF" text-anchor="middle">🛠️</text>
+  </g>
+  <!-- Tech Stack Icons around badge -->
+  <!-- AWS -->
+  <circle cx="256" cy="146" r="20" fill="url(#techAWSGradient)" opacity="0.95"/>
+  <text x="256" y="153" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">AWS</text>
+  <!-- React -->
+  <circle cx="308" cy="170" r="18" fill="url(#techReactGradient)" opacity="0.95"/>
+  <text x="308" y="177" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle">R</text>
+  <!-- Node.js -->
+  <circle cx="308" cy="342" r="18" fill="url(#techNodeGradient)" opacity="0.95"/>
+  <text x="308" y="349" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle">N</text>
+  <!-- Python -->
+  <circle cx="256" cy="366" r="18" fill="url(#techPythonGradient)" opacity="0.95"/>
+  <text x="256" y="373" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle">P</text>
+  <!-- Angular -->
+  <circle cx="204" cy="342" r="18" fill="url(#techAngularGradient)" opacity="0.95"/>
+  <text x="204" y="349" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle">A</text>
+  <!-- GitLab -->
+  <circle cx="204" cy="170" r="18" fill="url(#techGitlabGradient)" opacity="0.95"/>
+  <text x="204" y="177" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">GL</text>
+    </linearGradient>
+    <linearGradient id="techReactGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#61DAFB;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4CA9D9;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="techAngularGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#DD0031;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#A00024;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="techGitlabGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FC5028;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#C43F20;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="techAWSGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF9900;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E57B00;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#bgGradient)" rx="64"/>
+  <g fill="#3A4A5F" opacity="0.15">
+    <circle cx="120" cy="140" r="40"/>
+    <circle cx="390" cy="380" r="50"/>
+    <circle cx="420" cy="120" r="30"/>
   </g>
   <!-- Central Badge -->
   <g filter="url(#shadow)">
