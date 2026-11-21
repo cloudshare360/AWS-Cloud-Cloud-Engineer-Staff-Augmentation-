@@ -13,6 +13,7 @@
 3. [Commercial Model](#3-commercial-model)
 4. [Associate Requirements](#4-associate-requirements)
 5. [Staff Augmentation Support Provided](#5-staff-augmentation-support-provided)
+6. [Benefits for Associate](#6-benefits-for-associate)
 
 ---
 
@@ -72,5 +73,20 @@
 3. **Interview Preparation** — Guided preparation for interview
 4. **Mock Interviews** — Conduct mock interviews to ensure associate success
 5. **On-Job Support** — Support for sprint tasks once position is confirmed
+
+---
+
+## 6. Benefits for Associate
+
+- **Career Growth:** Structured career path from Developer → DevOps → Terraform → Frontend (Fullstack) → Automation Engineer using Agentic Development Tools
+- **Guided Support:** Mentorship and guided preparation at every stage to ensure consistent career progression
+- **Competitive Compensation:** Hourly rate of $50 – $60 / hr with 80% of 50% of bill rate revenue share
+- **Long-Term Engagement:** 18-month contract commitment with stability and clear tenure
+- **Skill Development:** Hands-on experience with AWS cloud services, AI/ML, agentic development tools, and modern tech stack
+- **Interview Support:** Mock interviews, profile marketing, and guided preparation to clear client interviews
+- **On-Job Assistance:** Dedicated support for sprint tasks once the position is confirmed
+- **Professional Networking:** Exposure to client environments and real-world cloud engineering projects
+- **Skill Certification Alignment:** Training aligned with AWS Certified Developer Associate (DVA-C03) and AWS AI/ML certification standards
+- **No Proxy Policy:** Associates personally prepare, execute, learn, and clear interviews — ensuring genuine skill acquisition
 
 ---

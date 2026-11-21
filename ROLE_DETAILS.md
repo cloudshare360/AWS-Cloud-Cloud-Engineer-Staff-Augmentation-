@@ -14,8 +14,9 @@
 4. [Commercial Model](#4-commercial-model)
 5. [Associate Requirements](#5-associate-requirements)
 6. [Staff Augmentation Support Provided](#6-staff-augmentation-support-provided)
-7. [Interview Process](#7-interview-process)
-8. [How to Apply](#8-how-to-apply)
+7. [Benefits for Associate](#7-benefits-for-associate)
+8. [Interview Process](#8-interview-process)
+9. [How to Apply](#9-how-to-apply)
 
 ---
 
@@ -146,7 +147,22 @@ The AWS Cloud Agentic Development Engineer role is a hybrid position spanning mu
 
 ---
 
-## 7. Interview Process
+## 7. Benefits for Associate
+
+- **Career Growth:** Structured career path from Developer → DevOps → Terraform → Frontend (Fullstack) → Automation Engineer using Agentic Development Tools
+- **Guided Support:** Mentorship and guided preparation at every stage to ensure consistent career progression
+- **Competitive Compensation:** Hourly rate of $50 – $60 / hr with 80% of 50% of bill rate revenue share
+- **Long-Term Engagement:** 18-month contract commitment with stability and clear tenure
+- **Skill Development:** Hands-on experience with AWS cloud services, AI/ML, agentic development tools, and modern tech stack
+- **Interview Support:** Mock interviews, profile marketing, and guided preparation to clear client interviews
+- **On-Job Assistance:** Dedicated support for sprint tasks once the position is confirmed
+- **Professional Networking:** Exposure to client environments and real-world cloud engineering projects
+- **Skill Certification Alignment:** Training aligned with AWS Certified Developer Associate (DVA-C03) and AWS AI/ML certification standards
+- **No Proxy Policy:** Associates personally prepare, execute, learn, and clear interviews — ensuring genuine skill acquisition
+
+---
+
+## 8. Interview Process
 
 1. **Initial Screening** — Profile review and basic eligibility check
 2. **Technical Assessment** — Hands-on coding round covering backend development, AWS services, AI agent development, and testing
@@ -156,7 +172,7 @@ The AWS Cloud Agentic Development Engineer role is a hybrid position spanning mu
 
 ---
 
-## 8. How to Apply
+## 9. How to Apply
 
 Interested candidates can reach out using the contact details below:
 

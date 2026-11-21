@@ -62,6 +62,7 @@ This document records every input provided by the user during the agent session.
 | 35 | "as part of the development user will use antropic claude modes via aws bedrock using aws profiles for development, gitlab agentic duo for cicd and vercel ai for front-end development" | Development Tools | Added Anthropic Claude via AWS Bedrock (AWS profiles for dev) to Backend; added Vercel AI to Frontend; updated CI/CD to GitLab Agentic Duo; updated AI/ML section to specify Claude models via AWS profiles |
 | 36 | "agentic tools are github copilot, claude code, cline, kiloai, mcp, agent to agent protocal, rag etc to speed up the development process" | Agentic AI Tools | Added Agentic AI Development Tools section: GitHub Copilot, Claude Code, Cline, KiloAI, MCP (Model Context Protocol), Agent-to-Agent Protocol, RAG |
 | 37 | "rename the tile from AWS Cloud Engineer to AWS Cloud Agentic Development Engineer" | Title Rename | Renamed title from AWS Agentic AI Cloud Engineer to AWS Cloud Agentic Development Engineer across README.md, ROLE_DETAILS.md, and this document |
+| 38 | "add benefits for associate" | Benefits | Added Benefits for Associate section (Section 6 in README.md, Section 7 in ROLE_DETAILS.md) covering career growth, guided support, compensation, engagement, skill development, interview support, on-job assistance, networking, certification alignment, and no proxy policy |
 
 ---
 
@@ -164,7 +165,20 @@ This document records every input provided by the user during the agent session.
 4. Mock Interviews — Conduct mock interviews to ensure associate success
 5. On-Job Support — Support for sprint tasks once position is confirmed
 
-### 3.6 Interview Process (Detailed Version Only)
+### 3.6 Benefits for Associate
+
+- **Career Growth:** Structured career path from Developer → DevOps → Terraform → Frontend (Fullstack) → Automation Engineer using Agentic Development Tools
+- **Guided Support:** Mentorship and guided preparation at every stage to ensure consistent career progression
+- **Competitive Compensation:** Hourly rate of $50 – $60 / hr with 80% of 50% of bill rate revenue share
+- **Long-Term Engagement:** 18-month contract commitment with stability and clear tenure
+- **Skill Development:** Hands-on experience with AWS cloud services, AI/ML, agentic development tools, and modern tech stack
+- **Interview Support:** Mock interviews, profile marketing, and guided preparation to clear client interviews
+- **On-Job Assistance:** Dedicated support for sprint tasks once the position is confirmed
+- **Professional Networking:** Exposure to client environments and real-world cloud engineering projects
+- **Skill Certification Alignment:** Training aligned with AWS Certified Developer Associate (DVA-C03) and AWS AI/ML certification standards
+- **No Proxy Policy:** Associates personally prepare, execute, learn, and clear interviews — ensuring genuine skill acquisition
+
+### 3.8 Interview Process (Detailed Version Only)
 
 1. Initial Screening — Profile review and basic eligibility check
 2. Technical Assessment — Hands-on coding round covering backend development, AWS services, AI agent development, and testing
@@ -172,7 +186,7 @@ This document records every input provided by the user during the agent session.
 4. Client Interview — Final interview with the client
 5. Offer & Onboarding — Contract signing and onboarding support
 
-### 3.7 How to Apply (Detailed Version Only)
+### 3.9 How to Apply (Detailed Version Only)
 
 - Email: cloud.share360@gmail.com
 - Phone: +1 (469) 905-2527
